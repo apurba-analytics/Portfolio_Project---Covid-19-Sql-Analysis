@@ -104,7 +104,7 @@ CREATE TABLE covid_vaccination (
     life_expectancy DOUBLE NULL,
     human_development_index DOUBLE NULL
 );
-
+-- Uploaded the file using Command line Prompt due to large dataset
 select * from covid_vaccination
 limit 50;
 
